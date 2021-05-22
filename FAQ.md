@@ -2,7 +2,7 @@
 
 # A0 鸽组汉化是游戏本体汉化吗？
 **Q0 NO，鸽组是MOD汉化小组，本体自带官中。**  
-- 通过观看第三方演示视频来了解如何设置官方中文
+- 可通过观看第三方演示视频来了解如何通过官方启动器设置官方中文
   - [BV1dQ4y1o7MY](https://www.bilibili.com/video/BV1dQ4y1o7MY "部分萌新的正版群星无法设置中文怎么办")  
   - [BV1Fy4y1e7gy](https://www.bilibili.com/video/BV1Fy4y1e7gy "Stellaris 群星中文咋改")
 
@@ -24,9 +24,9 @@
 # A5 如果有MOD冲突该如何处理？ 
 **Q5 建议减少使用可能导致冲突的MOD，或使用MOD兼容补丁，或使用第三方MOD管理器，来检查冲突。**
 
-- 新版鸽组推荐的第三方MOD管理器：  
+- 个人推荐的第三方MOD管理器：  
   - [Irony Mod Manager](https://bcssov.github.io/IronyModManager "Irony 模组管理器发布页")
-- 可通过观看第三方演示视频来了解如何通过官方启动器设置MOD排序  
+- 可通过观看第三方演示视频来了解如何使用官方启动器设置MOD排序  
   - [BV11y4y1Y7P6](https://www.bilibili.com/video/BV11y4y1Y7P6 "[教学]如何对群星MOD进行排序")
 
 # A6 旧版鸽组还能用吗？  
