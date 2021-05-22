@@ -1,7 +1,7 @@
 # 鸽组汉化 *第三方* FAQ [v2.1]
 
 ## A0 鸽组汉化是游戏本体汉化吗？
-**Q0 NO，鸽组是MOD汉化小组，本体自带官中。**  
+**Q0 NO，鸽组汉化是MOD汉化小组，游戏本体自带官方中文。**  
 - 可通过观看第三方演示视频来了解如何通过官方启动器设置官方中文
   - [BV1dQ4y1o7MY](https://www.bilibili.com/video/BV1dQ4y1o7MY "部分萌新的正版群星无法设置中文怎么办")  
   - [BV1Fy4y1e7gy](https://www.bilibili.com/video/BV1Fy4y1e7gy "Stellaris 群星中文咋改")
@@ -38,5 +38,5 @@
 - 如果你发现了某个不错的 Mod 但没有翻译，可在这个[**讨论版**](https://steamcommunity.com/workshop/filedetails/discussion/2131014154/2448217801766774311)中留言。
 
 # License
-本指南属于第三方指南，与鸽组无关，属于第三方个人行为  
-本项目内容是根据[Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)授权的，用于格式化与显示该内容的源代码是根据[MIT license](LICENSE)授权的。
+- 本指南属于第三方指南，与鸽组汉化无关，属于第三方个人行为
+- 本项目内容是根据[Creative Commons Attribution Share Alike 4.0 International](https://choosealicense.com/licenses/cc-by-sa-4.0/)授权的，用于格式化与显示该内容的源代码是根据[MIT license](LICENSE)授权的。
