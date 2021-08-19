@@ -1,4 +1,4 @@
-# 鸽组汉化 *第三方* FAQ [v2.4]
+# 鸽组汉化 *第三方* FAQ [v2.5]
 
 ## 前言
 请完整阅读本指南后再尝试提问: )
@@ -20,6 +20,7 @@
 - 如果是本体汉化问题，请看 [A0](#A0) 
 - 可通过观看第三方演示视频来了解如何通过官方启动器使用MOD  
   - [BV11y4y1Y7P6](https://www.bilibili.com/video/BV11y4y1Y7P6 "[教学]如何对群星MOD进行排序")
+  - [BV1J44y1k7V9](https://www.bilibili.com/video/BV1J44y1k7V9 "【群星奶奶级教学v2.0】番外篇 MOD相关")
 
 ## A2 已经订阅新版鸽组，也置于列表最底层且激活了，但没有汉化。
 **Q2** 请检查是否订阅了[外置汉化合集](https://steamcommunity.com/workshop/filedetails/?id=2459626292"[鸽组]外置汉化合集")内的MOD，或者[独立汉化合集](https://steamcommunity.com/workshop/filedetails/?id=2459685305"[鸽组]独立汉化合集")内的MOD ~~并检查是否激活汉化MOD~~  
@@ -27,11 +28,16 @@
 - 如上都没问题，请看 [A4](#A4)   
   - 如果是本体汉化问题，请看 [A0](#A0)  
 
+- 可通过观看第三方演示视频来了解如何使用官方启动器设置官方中文
+  - [BV1dQ4y1o7MY](https://www.bilibili.com/video/BV1dQ4y1o7MY "部分萌新的正版群星无法设置中文怎么办")  
+  - [BV1Fy4y1e7gy](https://www.bilibili.com/video/BV1Fy4y1e7gy "Stellaris 群星中文咋改")
+
 ## A3 独立汉化MOD，要怎么使用？  
 **Q3 请将独立汉化置于被汉化MOD下方，或者与置于列表最底层。**   
 
 - 可通过观看第三方演示视频来了解如何通过官方启动器使用MOD  
   - [BV11y4y1Y7P6](https://www.bilibili.com/video/BV11y4y1Y7P6 "[教学]如何对群星MOD进行排序")
+  - [BV1J44y1k7V9](https://www.bilibili.com/video/BV1J44y1k7V9 "【群星奶奶级教学v2.0】番外篇 MOD相关")
 
 ## A4 都做了，但汉化不完整/没有汉化。  
 **Q4 很有可能是还在做~~咕咕咕.jpg，或者做完了没更新MOD去更新合集了,~~ 请耐心等待更新：）**  
@@ -43,6 +49,7 @@
   - [Irony Mod Manager](https://bcssov.github.io/IronyModManager "Irony 模组管理器发布页")
 - 可通过观看第三方演示视频来了解如何通过官方启动器使用MOD  
   - [BV11y4y1Y7P6](https://www.bilibili.com/video/BV11y4y1Y7P6 "[教学]如何对群星MOD进行排序")
+  - [BV1J44y1k7V9](https://www.bilibili.com/video/BV1J44y1k7V9 "【群星奶奶级教学v2.0】番外篇 MOD相关")
 
 ## A6 旧版鸽组还能用吗？  
 **Q6 不确定也不建议在新版群星中使用。**  
